@@ -1,0 +1,15 @@
+Excellent understanding of machine learning techniques and algorithms, such as kNN, Naive Bayes, SVM, Decision tree, Random Forests, etc.
+
+Experience with common data science toolkits, such as python,R, Weka, NumPy, MatLab.
+
+Experience with linear regression and logistic regression.
+
+Experience with data visualisation tools like matplotlib, seaborn.
+
+Proficiency in using query languages such as MySqL.
+
+Proficiency in using Ms word and Ms excel.
+
+Experience with NoSQL databases, such as MongoDB, Cassandra.
+
+Good applied statistics skills, such as distributions, statistical testing, regression, etc.
